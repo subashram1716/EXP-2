@@ -65,6 +65,8 @@ Load Characteristics:
 ![WhatsApp Image 2025-10-22 at 18 05 42_7fdb845e](https://github.com/user-attachments/assets/e62a7c94-bfc9-4aa0-805c-f9549ace4b42)
 ![WhatsApp Image 2025-10-22 at 18 05 42_fc805b93](https://github.com/user-attachments/assets/11054bf5-29d6-48cc-8604-02b2548ed4a4)
 ![WhatsApp Image 2025-10-22 at 18 05 43_5e363501](https://github.com/user-attachments/assets/12bfa8de-021d-4e0d-9079-a3ff7cd4263a)
+![WhatsApp Image 2025-10-22 at 19 51 38_ea8e7aac](https://github.com/user-attachments/assets/05c9ed11-25ab-49a0-a51a-e53ee1dc104a)
+![WhatsApp Image 2025-10-22 at 19 51 41_98d4e383](https://github.com/user-attachments/assets/bfb360bf-f0bb-4e2a-b227-a200eb2af48a)
 
 
 
