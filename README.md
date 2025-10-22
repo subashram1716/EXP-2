@@ -1,4 +1,4 @@
-# EXP-2
+![WhatsApp Image 2025-10-22 at 19 51 41_174c10ab](https://github.com/user-attachments/assets/0e0f8db9-5e20-40a0-83c2-02149bbfa088)# EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
 Aim:
@@ -52,7 +52,7 @@ Tabulation for Open Circuit Test
 Tabulation for Load Test:
 
 Model graph:
-Calculation: 
+Calculation:
 
 Open circuit characteristics
 
@@ -67,6 +67,8 @@ Load Characteristics:
 ![WhatsApp Image 2025-10-22 at 18 05 43_5e363501](https://github.com/user-attachments/assets/12bfa8de-021d-4e0d-9079-a3ff7cd4263a)
 ![WhatsApp Image 2025-10-22 at 19 51 38_ea8e7aac](https://github.com/user-attachments/assets/05c9ed11-25ab-49a0-a51a-e53ee1dc104a)
 ![WhatsApp Image 2025-10-22 at 19 51 41_98d4e383](https://github.com/user-attachments/assets/bfb360bf-f0bb-4e2a-b227-a200eb2af48a)
+![WhatsApp Image 2025-10-22 at 19 51 41_174c10ab](https://github.com/user-attachments/assets/2768331e-6267-4698-93a7-62d4613f86c8)
+
 
 
 
